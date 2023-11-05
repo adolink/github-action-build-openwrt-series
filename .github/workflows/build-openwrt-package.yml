@@ -15,7 +15,7 @@ env:
   # 这里填入你的设备的配置文件
   CONFIG_FILE: device/x86-64.config
   # 这里填入要编译包的信息
-  PACKAGE_REPO: https://github.com/yichya/luci-app-xray.git
+  PACKAGE_REPO: https://github.com/adolink/luci-app-xray.git
   PACKAGE_NAME: luci-app-xray
   PACKAGE_BRANCH: master
   # 下方参数保持默认即可
